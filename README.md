@@ -1,5 +1,5 @@
 # flyway-cli
-[![Docker Build Status](https://img.shields.io/docker/build/eduardoagrj/flyway-cli.svg)]()
+[![Docker Build Status](https://img.shields.io/docker/build/eduardoagrj/flyway-cli.svg)](https://hub.docker.com/r/eduardoagrj/flyway-cli/builds/)
 
 Dockerized [flyway command-line tool](https://flywaydb.org/getstarted/firststeps/commandline) with options to use:
 
